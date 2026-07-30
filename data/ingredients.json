@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ing-1",
+    "name": "Hyaluronic Acid",
+    "category": "Kering",
+    "benefits": "Mengikat air pada kulit untuk hidrasi maksimal dan menjaga kelembaban jangka panjang",
+    "description": "Humektan kuat yang dapat menahan hingga 1000x beratnya dalam air",
+    "isActive": true,
+    "createdAt": "2024-01-01"
+  },
+  {
+    "id": "ing-2",
+    "name": "Ceramides",
+    "category": "Kering",
+    "benefits": "Memperkuat barrier kulit dan mencegah kehilangan kelembaban berlebihan",
+    "description": "Lipid penting yang membangun skin barrier",
+    "isActive": true,
+    "createdAt": "2024-01-02"
+  },
+  {
+    "id": "ing-3",
+    "name": "Glycerin",
+    "category": "Kering",
+    "benefits": "Melembabkan kulit dan meningkatkan elastisitas kulit yang kering",
+    "description": "Humektan universal yang aman untuk semua jenis kulit",
+    "isActive": true,
+    "createdAt": "2024-01-03"
+  },
+  {
+    "id": "ing-4",
+    "name": "Shea Butter",
+    "category": "Kering",
+    "benefits": "Memberikan nutrisi dan perlindungan untuk kulit sangat kering",
+    "description": "Emolien alami yang kaya vitamin dan asam lemak",
+    "isActive": true,
+    "createdAt": "2024-01-04"
+  },
+  {
+    "id": "ing-5",
+    "name": "Vitamin E",
+    "category": "Kering",
+    "benefits": "Antioksidan kuat yang melindungi dan menutrisi kulit kering",
+    "description": "Vitamin fat-soluble yang membantu perlindungan kulit",
+    "isActive": true,
+    "createdAt": "2024-01-05"
+  },
+  {
+    "id": "ing-6",
+    "name": "Salicylic Acid",
+    "category": "Berminyak",
+    "benefits": "Mengatasi pori tersumbat dan mengontrol produksi minyak berlebihan",
+    "description": "BHA yang dapat menembus pori untuk membersihkan dari dalam",
+    "isActive": true,
+    "createdAt": "2024-01-06"
+  },
+  {
+    "id": "ing-7",
+    "name": "Niacinamide",
+    "category": "Berminyak",
+    "benefits": "Mengatur produksi sebum dan meminimalkan tampilan pori-pori",
+    "description": "Vitamin B3 yang memperkuat barrier kulit dan kontrol minyak",
+    "isActive": true,
+    "createdAt": "2024-01-07"
+  },
+  {
+    "id": "ing-8",
+    "name": "Tea Tree Oil",
+    "category": "Berminyak",
+    "benefits": "Membersihkan pori dan mengontrol bakteri penyebab jerawat",
+    "description": "Minyak esensial dengan sifat antibakteri alami",
+    "isActive": true,
+    "createdAt": "2024-01-08"
+  },
+  {
+    "id": "ing-9",
+    "name": "Witch Hazel",
+    "category": "Berminyak",
+    "benefits": "Astringen alami untuk kontrol minyak dan penyeimbang pH",
+    "description": "Extract tanaman yang memiliki sifat penyeimbang kulit",
+    "isActive": true,
+    "createdAt": "2024-01-09"
+  },
+  {
+    "id": "ing-10",
+    "name": "Zinc",
+    "category": "Berminyak",
+    "benefits": "Mengatur sebum dan memiliki sifat anti-inflamasi",
+    "description": "Mineral penting untuk menyeimbangkan kulit berminyak",
+    "isActive": true,
+    "createdAt": "2024-01-10"
+  },
+  {
+    "id": "ing-11",
+    "name": "Benzoyl Peroxide",
+    "category": "Berjerawat",
+    "benefits": "Antibakteri kuat yang menghilangkan bakteri penyebab jerawat",
+    "description": "Oksidan kuat yang efektif melawan P. acnes bacteria",
+    "isActive": true,
+    "createdAt": "2024-01-11"
+  },
+  {
+    "id": "ing-12",
+    "name": "Charcoal",
+    "category": "Berjerawat",
+    "benefits": "Membersihkan pori dari bakteri dan toksin berlebihan",
+    "description": "Adsorben alami yang menarik bakteri dan impuritas",
+    "isActive": true,
+    "createdAt": "2024-01-12"
+  },
+  {
+    "id": "ing-13",
+    "name": "Panthenol",
+    "category": "Berjerawat",
+    "benefits": "Menenangkan kulit berjerawat dan mempercepat penyembuhan",
+    "description": "Pro-vitamin B5 yang melembabkan dan menenangkan",
+    "isActive": true,
+    "createdAt": "2024-01-13"
+  },
+  {
+    "id": "ing-14",
+    "name": "Green Tea",
+    "category": "Berjerawat",
+    "benefits": "Antioksidan dan antibakteri untuk kulit berjerawat",
+    "description": "Extract teh hijau dengan polyphenol yang kuat",
+    "isActive": true,
+    "createdAt": "2024-01-14"
+  }
+]

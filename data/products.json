@@ -1,0 +1,482 @@
+[
+  {
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Ceramides",
+      "Glycerin"
+    ],
+    "id": "1",
+    "name": "Hydrating Facial Cleanser",
+    "brand": "CeraVe",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 58000,
+    "image": "/products/kering/CeraVe Hydrating Facial Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-03"
+  },
+  {
+    "ingredients": [
+      "Ceramides",
+      "Glycerin",
+      "Shea Butter"
+    ],
+    "id": "2",
+    "name": "Gentle Skin Cleanser",
+    "brand": "Cetaphil",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 58000,
+    "image": "/products/kering/Cetaphil Gentle Skin Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-04"
+  },
+  {
+    "ingredients": [
+      "Glycerin",
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "id": "3",
+    "name": "Creamy Milk Facial Wash",
+    "brand": "Emina",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 59000,
+    "image": "/products/kering/Emina Creamy Milk Facial Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-05"
+  },
+  {
+    "ingredients": [
+      "Shea Butter",
+      "Vitamin E",
+      "Hyaluronic Acid"
+    ],
+    "id": "4",
+    "name": "Gokujyun Ultimate Moisturizing Face Wash",
+    "brand": "Hada Labo",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 36000,
+    "image": "/products/kering/Hada Labo Gokujyun Ultimate Moisturizing Face Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-06"
+  },
+  {
+    "ingredients": [
+      "Vitamin E",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "id": "5",
+    "name": "Mild Care Face Wash",
+    "brand": "Hada Labo",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 62000,
+    "image": "/products/kering/Hada Labo Mild Care Face Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-07"
+  },
+  {
+    "ingredients": [
+      "Hyaluronic Acid",
+      "Ceramides",
+      "Glycerin"
+    ],
+    "id": "6",
+    "name": "Hydro Boost Hydrating Cleanser",
+    "brand": "Neutrogena",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 73000,
+    "image": "/products/kering/Neutrogena Hydro Boost Hydrating Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-08"
+  },
+  {
+    "ingredients": [
+      "Ceramides",
+      "Glycerin",
+      "Shea Butter"
+    ],
+    "id": "7",
+    "name": "Daily Moisture Therapy Cleanser",
+    "brand": "Physiogel",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 74000,
+    "image": "/products/kering/Physiogel Daily Moisture Therapy Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-09"
+  },
+  {
+    "ingredients": [
+      "Glycerin",
+      "Shea Butter",
+      "Vitamin E"
+    ],
+    "id": "8",
+    "name": "Liquid Face and Body Wash",
+    "brand": "Sebamed",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 70000,
+    "image": "/products/kering/Sebamed Liquid Face and Body Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-10"
+  },
+  {
+    "ingredients": [
+      "Shea Butter",
+      "Vitamin E",
+      "Hyaluronic Acid"
+    ],
+    "id": "9",
+    "name": "Kind to Skin Moisturising Facial Wash",
+    "brand": "Simple",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 39000,
+    "image": "/products/kering/Simple Kind to Skin Moisturising Facial Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-11"
+  },
+  {
+    "ingredients": [
+      "Vitamin E",
+      "Hyaluronic Acid",
+      "Ceramides"
+    ],
+    "id": "10",
+    "name": "Hydrating Aloe Vera Gel Cleanser",
+    "brand": "Wardah",
+    "category": "Kering",
+    "description": "Pembersih wajah lembut yang menjaga kelembaban kulit kering",
+    "price": 37000,
+    "image": "/products/kering/Wardah Hydrating Aloe Vera Gel Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-12"
+  },
+  {
+    "ingredients": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Tea Tree Oil"
+    ],
+    "id": "11",
+    "name": "Foaming Wash",
+    "brand": "Acnes",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 48000,
+    "image": "/products/berminyak/Acnes Foaming Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-13"
+  },
+  {
+    "ingredients": [
+      "Niacinamide",
+      "Tea Tree Oil",
+      "Witch Hazel"
+    ],
+    "id": "12",
+    "name": "Acne Gentle Cleanser",
+    "brand": "Azarine",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 57000,
+    "image": "/products/berminyak/Azarine Acne Gentle Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-14"
+  },
+  {
+    "ingredients": [
+      "Tea Tree Oil",
+      "Witch Hazel",
+      "Zinc"
+    ],
+    "id": "13",
+    "name": "Foaming Face Wash",
+    "brand": "Clean & Clear",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 61000,
+    "image": "/products/berminyak/Clean & Clear Foaming Face Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-15"
+  },
+  {
+    "ingredients": [
+      "Witch Hazel",
+      "Zinc",
+      "Salicylic Acid"
+    ],
+    "id": "14",
+    "name": "Bright Stuff Face Wash",
+    "brand": "Emina",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 60000,
+    "image": "/products/berminyak/Emina Bright Stuff Face Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-16"
+  },
+  {
+    "ingredients": [
+      "Zinc",
+      "Salicylic Acid",
+      "Niacinamide"
+    ],
+    "id": "15",
+    "name": "Men Oil Control Facial Wash",
+    "brand": "Garnier",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 67000,
+    "image": "/products/berminyak/Garnier Men Oil Control Facial Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-17"
+  },
+  {
+    "ingredients": [
+      "Salicylic Acid",
+      "Niacinamide",
+      "Tea Tree Oil"
+    ],
+    "id": "16",
+    "name": "Tamagohada Mild Peeling Face Wash",
+    "brand": "Hada Labo",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 74000,
+    "image": "/products/berminyak/Hada Labo Tamagohada Mild Peeling Face Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-18"
+  },
+  {
+    "ingredients": [
+      "Niacinamide",
+      "Tea Tree Oil",
+      "Witch Hazel"
+    ],
+    "id": "17",
+    "name": "Acne Solution Facial Foam",
+    "brand": "Pond’s",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 67000,
+    "image": "/products/berminyak/Pond’s Acne Solution Facial Foam.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-19"
+  },
+  {
+    "ingredients": [
+      "Tea Tree Oil",
+      "Witch Hazel",
+      "Zinc"
+    ],
+    "id": "18",
+    "name": "Perfect Whip Acne Care",
+    "brand": "Senka",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 66000,
+    "image": "/products/berminyak/Senka Perfect Whip Acne Care.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-20"
+  },
+  {
+    "ingredients": [
+      "Witch Hazel",
+      "Zinc",
+      "Salicylic Acid"
+    ],
+    "id": "19",
+    "name": "AHA-BHA-PHA 30 Days Miracle Cleanser",
+    "brand": "Some By Mi",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 41000,
+    "image": "/products/berminyak/Some By Mi AHA-BHA-PHA 30 Days Miracle Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-21"
+  },
+  {
+    "ingredients": [
+      "Zinc",
+      "Salicylic Acid",
+      "Niacinamide"
+    ],
+    "id": "20",
+    "name": "Acnederm Pure Foaming Cleanser",
+    "brand": "Wardah",
+    "category": "Berminyak",
+    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
+    "price": 36000,
+    "image": "/products/berminyak/Wardah Acnederm Pure Foaming Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-22"
+  },
+  {
+    "ingredients": [
+      "Benzoyl Peroxide",
+      "Charcoal",
+      "Panthenol"
+    ],
+    "id": "21",
+    "name": "Creamy Wash",
+    "brand": "Acnes",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 47000,
+    "image": "/products/berjerawat/Acnes Creamy Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-23"
+  },
+  {
+    "ingredients": [
+      "Charcoal",
+      "Panthenol",
+      "Green Tea"
+    ],
+    "id": "22",
+    "name": "Lotion Facial Wash",
+    "brand": "Acnol",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 54000,
+    "image": "/products/berjerawat/Acnol Lotion Facial Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-24"
+  },
+  {
+    "ingredients": [
+      "Panthenol",
+      "Green Tea",
+      "Salicylic Acid"
+    ],
+    "id": "23",
+    "name": "Acne Gentle Cleansing Foam",
+    "brand": "Azarine",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 63000,
+    "image": "/products/berjerawat/Azarine Acne Gentle Cleansing Foam.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-25"
+  },
+  {
+    "ingredients": [
+      "Green Tea",
+      "Salicylic Acid",
+      "Benzoyl Peroxide"
+    ],
+    "id": "24",
+    "name": "Salicylic Acid Daily Gentle Cleanser",
+    "brand": "COSRX",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 70000,
+    "image": "/products/berjerawat/COSRX Salicylic Acid Daily Gentle Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-26"
+  },
+  {
+    "ingredients": [
+      "Salicylic Acid",
+      "Benzoyl Peroxide",
+      "Charcoal"
+    ],
+    "id": "25",
+    "name": "Ms. Pimple Acne Solution Face Wash",
+    "brand": "Emina",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 70000,
+    "image": "/products/berjerawat/Emina Ms. Pimple Acne Solution Face Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-27"
+  },
+  {
+    "ingredients": [
+      "Benzoyl Peroxide",
+      "Charcoal",
+      "Panthenol"
+    ],
+    "id": "26",
+    "name": "Acneact Gentle Acne Cleanser",
+    "brand": "Erha",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 67000,
+    "image": "/products/berjerawat/Erha Acneact Gentle Acne Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-28"
+  },
+  {
+    "ingredients": [
+      "Charcoal",
+      "Panthenol",
+      "Green Tea"
+    ],
+    "id": "27",
+    "name": "Acne Facial Wash",
+    "brand": "Mediklin",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 62000,
+    "image": "/products/berjerawat/Mediklin Acne Facial Wash.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-01"
+  },
+  {
+    "ingredients": [
+      "Panthenol",
+      "Green Tea",
+      "Salicylic Acid"
+    ],
+    "id": "28",
+    "name": "Clear Face Cleansing Foam",
+    "brand": "Sebamed",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 70000,
+    "image": "/products/berjerawat/Sebamed Clear Face Cleansing Foam.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-02"
+  },
+  {
+    "ingredients": [
+      "Green Tea",
+      "Salicylic Acid",
+      "Benzoyl Peroxide"
+    ],
+    "id": "29",
+    "name": "Acne Care Cleanser",
+    "brand": "The Originote",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 70000,
+    "image": "/products/berjerawat/The Originote Acne Care Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-03"
+  },
+  {
+    "ingredients": [
+      "Salicylic Acid",
+      "Benzoyl Peroxide",
+      "Charcoal"
+    ],
+    "id": "30",
+    "name": "Acnederm Acne Care Gel Cleanser",
+    "brand": "Wardah",
+    "category": "Berjerawat",
+    "description": "Pembersih wajah yang membantu merawat kulit berjerawat",
+    "price": 36000,
+    "image": "/products/berjerawat/Wardah Acnederm Acne Care Gel Cleanser.jpg",
+    "isActive": true,
+    "createdAt": "2024-02-04"
+  }
+]
