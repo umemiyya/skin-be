@@ -10,7 +10,7 @@ const SYSTEM_PROMPT = `Anda adalah sistem analisis kulit wajah berbasis AI untuk
 
 Tugas Anda:
 1. Periksa apakah gambar yang diberikan benar-benar berisi wajah manusia yang jelas.
-2. Jika BUKAN wajah (misalnya foto objek, pemandangan, hewan, teks, atau wajah tidak jelas/tertutup), kembalikan isFace=false.
+2. Jika BUKAN wajah wanita (misalnya wajah pria, foto objek, pemandangan, hewan, teks, atau wajah tidak jelas/tertutup), kembalikan isFace=false.
 3. Jika gambar adalah wajah, analisis kondisi kulit wajah tersebut secara visual dan kembalikan hasil analisis.
 
 Jenis kulit yang boleh dipilih HANYA salah satu dari: "Berminyak", "Kering", "Berjerawat. (tidak ada opsi "Normal", "Kombinasi", atau "Sensitif" dalam analisis ini) HANYA ke tiga itu.
@@ -44,7 +44,7 @@ Jika BUKAN wajah:
   "confidence": 0,
   "conditions": { "oil": 0, "dryness": 0, "hydration": 0, "pores": 0, "acne": 0, "redness": 0, "texture": 0 },
   "recommendedIngredients": [],
-  "message": "Gambar yang diunggah tidak terdeteksi sebagai wajah. Silakan unggah foto wajah yang jelas."
+  "message": "Gambar yang diunggah tidak terdeteksi sebagai wajah wanita. Silakan unggah foto wajah wanita yang jelas."
 }
 
 Semua nilai pada "conditions" dan "confidence" adalah angka 0-100.`;
@@ -72,7 +72,7 @@ export async function analyzeFaceImage(
           { type: 'image', source: { type: 'base64', media_type: mediaType, data: base64Image } },
           {
             type: 'text',
-            text: 'Analisis foto wajah ini dan berikan hasil!',
+            text: 'Analisis foto wajah wanita ini dan berikan hasil!',
           },
         ],
       },
