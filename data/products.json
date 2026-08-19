@@ -225,22 +225,6 @@
   },
   {
     "ingredients": [
-      "Zinc",
-      "Salicylic Acid",
-      "Niacinamide"
-    ],
-    "id": "15",
-    "name": "Men Oil Control Facial Wash",
-    "brand": "Garnier",
-    "category": "Berminyak",
-    "description": "Pembersih wajah yang membantu mengontrol minyak berlebih",
-    "price": 67000,
-    "image": "/products/berminyak/Garnier Men Oil Control Facial Wash.jpg",
-    "isActive": true,
-    "createdAt": "2024-02-17"
-  },
-  {
-    "ingredients": [
       "Salicylic Acid",
       "Niacinamide",
       "Tea Tree Oil"
